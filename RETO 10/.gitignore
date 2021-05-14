@@ -1,5 +1,3 @@
-# Node
 node_modules
-
-# Build
-dist
+.env
+backend/public
